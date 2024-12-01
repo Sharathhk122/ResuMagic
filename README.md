@@ -5,6 +5,22 @@
 
 This online resume builder assists job searchers in building a professional resume, making the task of creating a resume easier. Individuals must simply fill out a form that includes questions from all required sections, such as personal questions, educational questions, qualities, interests, and skills. Users' responses are kept, and the system generates a well-structured resume with **customisable templates** automatically. Users have the option of creating resumes in any format or file type.
 
+
+---
+
+## Features
+
+- **Customizable Templates**: Offers multiple templates to choose from, allowing users to create resumes that fit their style and profession.
+- **Easy Form Filling**: Users can fill out a simple form with their personal information, education, skills, interests, and other essential sections.
+- **Download Options**: Resumes can be downloaded in various formats such as PDF and DOCX.
+- **Cross-Platform Support**: Accessible from any device with a browser, ensuring that users can create resumes on the go.
+- **Print Friendly**: Generated resumes are ready for printing, ensuring high-quality outputs for physical copies.
+- **User-Friendly Interface**: Designed with ease of use in mind, enabling quick navigation and hassle-free resume creation.
+- **Responsive Design**: Automatically adjusts the layout for different screen sizes, providing an optimal viewing experience on mobile, tablet, and desktop.
+
+---
+
+
 <br>
 #how to run
 
