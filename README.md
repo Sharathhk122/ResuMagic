@@ -34,6 +34,11 @@ This online resume builder assists job searchers in building a professional resu
 _**Created by :-**_ <br>[Sharath H K](https://github.com/Sharathhk122)
 
 ---
+![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(877).png)
+
+![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(880).png)
+
+![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(881).png)
 
 ![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/7e28f150-1e37-4a58-b400-77a07ebfb911)
 
@@ -43,11 +48,7 @@ _**Created by :-**_ <br>[Sharath H K](https://github.com/Sharathhk122)
 
 ![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/2bc5c1ab-5ccc-4757-a5ca-7dffbadaed4b)
 
-![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(877).png)
 
-![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(880).png)
-
-![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(881).png)
 
 
 ---
