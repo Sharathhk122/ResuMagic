@@ -45,9 +45,9 @@ _**Created by :-**_ <br>[Sharath H K](https://github.com/Sharathhk122)
 
 ![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(877).png)
 
-![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(878).png)
+![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(880).png)
 
-![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(879).png)
+![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(881).png)
 
 
 ---
