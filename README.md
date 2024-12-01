@@ -46,23 +46,15 @@ _**Created by :-**_ <br>[Sharath H K](https://github.com/Sharathhk122)
 
 ---
 
-## Watch Demo Video :-
-
-(Project Demo Link)
-"[Resume Builder](https://drive.google.com/file/d/1EuOOZCdjE9vxb4UhVG27ybTMskUWizxt/view?usp=sharing)"
 
 <!-- ![Home](ResumeBuilder.gif) -->
 
 <br>
 
-<!-- ## Contributors -->
-<a href="https://github.com/R-Ayush777/WDW_Project_CE104_CE108_CE144/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=R-Ayush777/WDW_Project_CE104_CE108_CE144" />
-</a>
+
 
 <!-- <b><h3>Video Link : </b>https://drive.google.com/file/d/1X8XSruU315Ziyao32fiOv2zgZ8U-nqOP/view</h3> -->
 <!-- This online resume builder simplifies the work of making a resume for job seekers by help them in creating a professional resume. Individuals must simply complete a form that includes questions from all needed fields, including personal questions, educational questions, traits, interests, and skills, among others. The answers given by the users are saved, and the system generates a well-structured resume automatically with costomisable templates. Users can produce resumes in any format and file type. -->
 =======
 # ResuMagic
 ResuMagic is a dynamic Resume Builder that simplifies resume creation with an intuitive interface, customizable templates, and cross-platform support. Ideal for job seekers and professionals, it helps users craft well-structured resumes to showcase their skills effectively.
->>>>>>> 8a808e0d384b7cabdabfa33c37b2b58fbe33c697
