@@ -43,11 +43,11 @@ _**Created by :-**_ <br>[Sharath H K](https://github.com/Sharathhk122)
 
 ![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/2bc5c1ab-5ccc-4757-a5ca-7dffbadaed4b)
 
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/2bc5c1ab-5ccc-4757-a5ca-7dffbadaed4b)
+![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(877).png)
 
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/2bc5c1ab-5ccc-4757-a5ca-7dffbadaed4b)
+![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(878).png)
 
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/2bc5c1ab-5ccc-4757-a5ca-7dffbadaed4b)
+![image](https://github.com/Sharathhk122/ResuMagic/blob/main/Screenshot%20(879).png)
 
 
 ---
